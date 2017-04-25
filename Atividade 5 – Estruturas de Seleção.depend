@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1492974711 source:c:\users\aluno\downloads\exercicio-interface-c-master\src\exercicios.c
+
+1492977446 source:c:\users\aluno\downloads\atividade 5 – estruturas de seleção\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../exercicio-interface-c-master/src/menu_interface.h"
+	"exercicios.h"
+
+1493008027 c:\users\aluno\downloads\exercicio-interface-c-master\src\menu_interface.h
+	"alloc_interface.h"
+
+1493008027 c:\users\aluno\downloads\exercicio-interface-c-master\src\alloc_interface.h
+
+1492976199 c:\users\aluno\downloads\atividade 5 – estruturas de seleção\exercicios.h
+
